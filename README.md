@@ -145,4 +145,3 @@ This project is developed for educational and learning purposes as part of the P
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
